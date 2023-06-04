@@ -25,8 +25,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/TeamAgora/Unplugged"
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/op_bro_official_group")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/+SwrSx_VVa2lkYWI1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+XZqpUHJ-1PIxMzM9")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Lets_Fun_GuYs")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
