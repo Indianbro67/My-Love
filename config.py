@@ -25,8 +25,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/TeamAgora/Unplugged"
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/teamagora")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/agoraworld")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/op_bro_official_group")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/+SwrSx_VVa2lkYWI1")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
@@ -76,11 +76,11 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/8f609a79c64621ad00dd0.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/4d4f337cfea91640b5f07.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://te.legra.ph/file/abeb776313bf1bccf1de8.jpg",
+    "https://telegra.ph/file/4d4f337cfea91640b5f07.jpg",
 )
 
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/5ac765afa9758e04fcc85.jpg"
