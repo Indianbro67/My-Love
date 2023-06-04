@@ -167,17 +167,17 @@ async def start_comm(client, message: Message, _):
 
 **💞🌹ᴀʟᴏɴᴇ ɪ ʟᴏᴠᴇ ʏᴏᴜ sᴏ ᴍᴜᴄʜ🌹💞**
 
-|| ᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ [ʜᴇᴀᴠᴇɴ❣️](https://t.me/mr_agora) 🥀 ||
+|| ᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ [ʜᴇᴀᴠᴇɴ❣️](https://t.me/Lets_Fun_GuYs) 🥀 ||
 
 💖 sᴇᴀʀᴄʜ ᴩᴏᴡᴇʀᴇᴅ ʙʏ {config.MUSIC_BOT_NAME}"""
             key = InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="• Update •", url="https://t.me/op_bro_official_group"
+                            text="• Update •", url="https://t.me/+XZqpUHJ-1PIxMzM9"
                         ),
                         InlineKeyboardButton(
-                            text="• sᴜᴩᴩᴏʀᴛ •", url="https://t.me/+SwrSx_VVa2lkYWI1"
+                            text="• sᴜᴩᴩᴏʀᴛ •", url="https://t.me/Lets_Fun_GuYs"
                         ),
                     ],
                 ]
